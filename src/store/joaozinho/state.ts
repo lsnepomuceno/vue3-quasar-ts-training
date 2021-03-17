@@ -1,5 +1,5 @@
 export interface ExampleStateInterface {
-  prop: boolean;
+  prop: boolean
 }
 
 function state(): ExampleStateInterface {
